@@ -1,0 +1,19 @@
+form {
+  width: 20rem;
+}
+
+.form-group {
+  padding-bottom: 5px;
+}
+
+.form-group button {
+  width: 100%;
+}
+
+input[type="text"] {
+  width: 19.5rem;
+}
+
+.lists label {
+  padding-right: 1rem;
+}
